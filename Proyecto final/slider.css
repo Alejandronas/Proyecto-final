@@ -1,0 +1,11 @@
+
+.slide{
+    max-width: 900px;
+
+}
+
+article{
+    display: flex;
+    justify-content: center;
+}
+

@@ -1,0 +1,97 @@
+img{
+    height: 50px;
+
+}
+.horario{
+    color: black;
+    font-size: 0.8em;
+    float: right;
+ 
+}
+.collapse{
+    
+    margin-top: 20px;
+}
+a{
+    font-size: 1.1em;
+}
+a:hover{
+   color: blue;
+}
+header{
+    
+    background-color: rgb(72, 78, 83);
+    
+}
+
+.cuenta a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar{
+    background: rgb(109, 111, 151);
+}
+
+.menu1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(248, 249, 250);
+    height: 70px;
+    align-items: center;
+    
+}
+
+
+.titulocomis{
+text-align: center;
+
+
+
+}
+
+.cajacomics p{
+    text-align: center;
+   
+}
+.cajacomics img{
+
+    height: 400px;
+
+}
+
+.preciotachado{
+    color: grey;
+    text-decoration: line-through;
+}
+
+.cajacomics{
+    margin: 20px;
+
+}
+h4{
+    text-align: center;
+}
+
+.cosina1 a{
+    text-decoration: none;
+    color: black;
+}
+p a{
+    text-decoration: none;
+    color: black;
+}
+
+@media (max-width: 576px) { 
+    .cajacomics img{
+
+        height: 80px;
+    
+    }
+
+    
+    
+
+    
+
+ }
